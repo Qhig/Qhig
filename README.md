@@ -21,4 +21,4 @@ Each month, I participate in IBM's [**Ponder This**](https://research.ibm.com/ha
 ## 📫 Contact
 - **Email**: [quentin.higueret@univ-grenoble-alpes.fr](mailto:quentin.higueret@univ-grenoble-alpes.fr)
 - **Website**: [qhig.github.io/quentin-higueret.github.io](https://qhig.github.io/quentin-higueret.github.io/) 
-- **GitHub**: [github.com/quentinhigueret](https://github.com/Qhig)
+- **GitHub**: [github.com/Qhig](https://github.com/Qhig)
