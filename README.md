@@ -3,7 +3,7 @@
 ![Seismic Trace Animation](seismic_trace_deep_zoom_4.gif)
 
 ## 👋 About Me
-I’m a PhD student in seismology at **ISTerre**, Grenoble, focusing on understanding fault dynamics, from uncovering seismicity patterns to exploring exotic signal manifestations. 
+I’m a Ph.D. student in seismology at **ISTerre**, Grenoble, focusing on understanding fault dynamics, from uncovering seismicity patterns to exploring exotic signal manifestations. 
 I use dense seismic arrays, combined with both traditional seismic analysis and machine learning techniques, to study and monitor earthquake processes.
 
 ## 📈 Key Projects
