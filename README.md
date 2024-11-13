@@ -19,5 +19,5 @@ Each month, I participate in IBM's **Ponder This** challenge, tackling complex c
 
 ## 📫 Contact
 - **Email**: [quentin.higueret@univ-grenoble-alpes.fr](mailto:quentin.higueret@univ-grenoble-alpes.fr)
-- **Website**: 
+- **Website**: [qhig.github.io/quentin-higueret.github.io](https://qhig.github.io/quentin-higueret.github.io/) 
 - **GitHub**: [github.com/quentinhigueret](https://github.com/Qhig)
