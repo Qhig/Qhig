@@ -15,7 +15,8 @@ I use dense seismic arrays, combined with both traditional seismic analysis and 
 ![Pari/GP](https://img.shields.io/badge/Pari/GP-2.13.0-yellow?logo=gnu)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash&logoColor=white)
 ## 🧩 Ponder This Challenge
-Each month, I participate in IBM's **Ponder This** challenge, tackling complex coding puzzles to sharpen my problem-solving and algorithmic skills.
+Each month, I participate in IBM's [**Ponder This**](https://research.ibm.com/haifa/ponderthis/index.shtml) challenge, tackling complex coding puzzles to sharpen my problem-solving and algorithmic skills.
+
 
 ## 📫 Contact
 - **Email**: [quentin.higueret@univ-grenoble-alpes.fr](mailto:quentin.higueret@univ-grenoble-alpes.fr)
