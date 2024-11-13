@@ -7,7 +7,7 @@ I’m a PhD student in seismology at **ISTerre**, Grenoble, focusing on understa
 I use dense seismic arrays, combined with both traditional seismic analysis and machine learning techniques, to study and monitor earthquake processes.
 
 ## 📈 Key Projects
-- 🌐**Faultscan Array**: Advanced detection of microseismicity and tremors, along with body-wave correlations reconstruction for comprehensive fault-zone monitoring.
+🌐**Faultscan Array**: Advanced detection of microseismicity and tremors, along with body-wave correlations reconstruction for comprehensive fault-zone monitoring.
 ## 📊 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-Standard%20Library-lightgrey?logo=c&logoColor=white) 
