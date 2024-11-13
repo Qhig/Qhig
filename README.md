@@ -1,6 +1,6 @@
 # Quentin Higueret 🌍🔍
 
-![Seismic Trace Animation](seismic_trace_deep_zoom.gif)
+![Seismic Trace Animation](seismic_trace_deep_zoom_2.gif)
 
 ## 👋 About Me
 I’m a PhD student in seismology at ISTerre, Grenoble, focusing on understanding fault dynamics, from uncovering seismicity patterns to exploring exotic signal manifestations. 
